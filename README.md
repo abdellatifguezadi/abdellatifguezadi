@@ -6,7 +6,7 @@
     specialties: ["Front-End", "Back-End"],
     sayHello: function() {
         console.log("Hello, World! 
-        👋 I'm Adil, an Intermediate Software Engineer passionate about clean code 
+        👋 I'm Abdellatif, an Intermediate Software Engineer passionate about clean code 
           and creative solutions! 🚀");
     }
 };
@@ -28,7 +28,7 @@ AbdellatifGuezadi.sayHello();</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/adil-ait-el-houcine-69352429b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adil-ait-el-houcine-69352429b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/Abdellatif-ait-el-houcine-69352429b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Abdellatif-ait-el-houcine-69352429b" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/E7RKhBAP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/E7RKhBAP" height="30" width="40" /></a>
 </p>
 
