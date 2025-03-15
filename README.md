@@ -47,8 +47,7 @@ const aboutMe = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdellatifGuezadi1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdellatifGuezadi1&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=AbdellatifGuezadi1&cc=0D1117&tc=fff&ic=fff&bc=0D1117" alt="GitHub Stats" />
 </div>
 
 --- 
