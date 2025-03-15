@@ -39,11 +39,8 @@ const aboutMe = {
 
 ## 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/Abdellatif-ait-el-houcine-69352429b" target="_blank">
+  <a href="https://www.linkedin.com/in/abdellatif-guezadi-78138b335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.gg/E7RKhBAP" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
@@ -55,13 +52,6 @@ const aboutMe = {
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellatifGuezadi1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdellatifGuezadi1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdellatifGuezadi1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdellatifGuezadi1/AbdellatifGuezadi1/output/github-contribution-grid-snake.svg" alt="snake" />
-</div> 
+--- 
