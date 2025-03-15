@@ -44,10 +44,4 @@ const aboutMe = {
   </a>
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=AbdellatifGuezadi1&cc=0D1117&tc=fff&ic=fff&bc=0D1117" alt="GitHub Stats" />
-</div>
-
---- 
